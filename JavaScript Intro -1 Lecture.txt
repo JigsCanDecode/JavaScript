@@ -1,0 +1,67 @@
+JavaScript
+=========
+It is an Scripting Programming Language where we can validate html object 
+
+What is Validation?
+===============
+Validation means to make field compulosry or to give some specific task where user needs to complete any how...
+
+
+Javascript Flavour
+===============
+1) JavaScript
+2) React Native
+3) NodeJs
+4) JSON (JavaScript Object Notation)
+
+Who made JavaScript
+===================
+JavaScript is first designed by Netscap Navigator
+Which is fully controll by Sun Microsys company
+
+-> And Today all function perform by Oracle from sun microsys
+
+-> Brendan Eich is the creator of javascript
+
+Javascript Popularity
+==================
+It is an Most popular script programing language which is widely used around the world almost (Average 70% web traffic run by javascript)
+
+What we need to require to run javascript?
+-> We dont require any third party app to run javscript, almost every browser support javascript plugins which is already inbuild in thier console.
+
+-> Basic HTML knowledge we require.
+
+
+What is Data Type?
+===============
+Data Type is nothing which help us to store data by way of different types and model. 
+e.g:
+
+But we dont reuiqre to place data type outside the function, becuase javascript is an dynamic scripting language.
+
+Integer : 1,2,3
+Float : 1.3,4.5 111.456
+Double : 11121344, 12344.566
+Char : A,B,C,a,b,c
+Long Int : 1234546677
+Short Int : 1234
+
+What is Variable?
+=============
+Variable is nothing but to store data.
+
+example:- a,b,c
+
+How to declear variable?
+====================
+Rules
+1) It can be an alphabet e.g: a,b,c
+2) It can be an alphanumeric : e.g a1,a2,a3
+3) It can't be an number : e.g = 1,2,3
+4) dont use any special character inside variable except $ : e.g: @1, #1,
+5) dont use any whitespace e.g: a  b
+6) we can use _(underscore in variable) e.g : a_b
+7) dont use - (hyphen) in Variabl e.g : a-b
+
+
